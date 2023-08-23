@@ -1,0 +1,43 @@
+[
+  {
+  "resourceType": "Organization",
+  "name": "TCU MI  hospital ",
+  "telecom": [
+    {
+      "system": "phone",
+      "value": "+886 278565301",
+      "use": "mobile"
+    },
+    {
+      "system": "email",
+      "value": "chhsiao@gms.tcu.edu.tw",
+      "use": "work"
+    }
+  ]
+}
+
+,
+
+{ "resourceType": "Organization",
+  "id": "5",
+  "name": "台東健康醫院"
+}
+
+,
+
+
+{ "resourceType": "Organization",
+  "id": "28",
+  "identifier": [ {
+    "use": "official",
+    "system": "https://twcore.mohw.gov.tw/tsfhir/CodeSystem/organization-identifier-tw",
+    "value": "0131069999"
+  } ],
+  "name": "台東福田醫院"
+}
+
+
+
+]
+
+

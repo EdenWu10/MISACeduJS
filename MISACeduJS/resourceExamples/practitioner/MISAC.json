@@ -1,0 +1,69 @@
+{"resourceType": "Practitioner",
+"identifier" : [
+  {"use" : "official",
+   "system" : "https://misac.tcu.edu.tw",
+   "value" : "MISAC"
+  }],
+"name": [ {
+    "use": "official",
+    "text": "李祥豪"  } ]
+ }
+
+ ,
+
+
+{
+  "resourceType": "Practitioner",
+  "id": "4583",
+  "meta": {
+    "versionId": "1",
+    "lastUpdated": "2023-06-23T19:58:01.183+08:00"
+  },
+  "identifier": [ {
+    "use": "official",
+    "system": "https://misac.tcu.edu.tw",
+    "value": "MISAC"
+  } ],
+  "name": [ {
+    "use": "official",
+    "text": "李祥豪"
+  } ]
+}
+
+
+{
+    "resourceType": "Practitioner",
+    "id": "4584",
+    "meta": {
+      "versionId": "1",
+      "lastUpdated": "2023-06-23T19:59:12.377+08:00"
+    },
+    "identifier": [ {
+      "use": "official",
+      "system": "https://misac.tcu.edu.tw",
+      "value": "MISAC"
+    } ],
+    "name": [ {
+      "use": "official",
+      "text": "蕭嘉宏"
+    } ]
+  }
+
+
+  {
+    "resourceType": "Practitioner",
+    "id": "4585",
+    "meta": {
+      "versionId": "1",
+      "lastUpdated": "2023-06-23T19:59:53.246+08:00"
+    },
+    "identifier": [ {
+      "use": "official",
+      "system": "https://misac.tcu.edu.tw",
+      "value": "MISAC"
+    } ],
+    "name": [ {
+      "use": "official",
+      "text": "吳宇婷"
+    } ]
+  }

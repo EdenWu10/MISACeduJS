@@ -1,0 +1,16 @@
+
+{   "resourceType": "Patient",
+    "identifier" : [  {
+        "use" : "official",
+        "system" : "https://tcu.edu.tw/tcuStdcode",
+        "value" : "101316007"
+      }],
+    "name": [    {
+    "use": "official",
+    "text": "林帶玉",
+    "family": "林",
+    "given": ["林帶玉"]  } ],
+    "gender": "female",
+    "birthDate": "1773-01-21"
+  }
+  

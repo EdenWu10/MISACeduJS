@@ -1,0 +1,14 @@
+{
+    "resourceType": "Appointment",
+     "status": "booked",
+     "slot": [
+        {
+          "reference": "Slot/example"
+        }
+      ],
+   "participant": [
+      {"actor": { "reference": "Patient/example" },
+        "status": "accepted"
+      }
+    ]
+  }

@@ -1,0 +1,37 @@
+{
+    "resourceType": "Organization",
+    "identifier": [ {
+      "use": "official",
+      "type": {
+        "coding": [ {
+          "system": "https://twcore.mohw.gov.tw/fhir/CodeSystem/v2-0203",
+          "code": "HOI"
+        } ]
+      },
+      "system": "https://twcore.mohw.gov.tw/fhir/CodeSystem/organization-identifier-tw",
+      "value": "cht01"
+    }, {
+      "use": "official",
+      "system": "(ISO 3166)",
+      "value": "台灣"
+    } ],
+    "name": "Chunghwa Telecom(中華電信)",
+    "alias": [ "cht" ],
+    "telecom": [ {
+      "system": "phone",
+      "value": "(+1) 734-677-7777"
+    }, {
+      "system": "fax",
+      "value": "(+1) 734-677-6622"
+    }, {
+      "system": "email",
+      "value": "cht@cht.org"
+    } ],
+    "address": [ {
+      "line": [ "信義路一號" ],
+      "state": "中正區",
+      "city": "台北市",
+      "postalCode": "001",
+      "country": "TW (ISO 3166)"
+    } ]
+  }

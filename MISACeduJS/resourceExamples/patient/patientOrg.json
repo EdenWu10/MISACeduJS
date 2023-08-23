@@ -1,0 +1,64 @@
+
+[
+{
+  "resourceType": "Patient",
+  "identifier" : [
+    {
+      "use" : "official",
+      "type" : {
+        "coding" : [
+          {
+            "system" : "https://tcu.edu.tw/tcuCodeSystem/v20230223",
+            "code" : "tcuStdcode"
+          }
+        ]
+      },
+      "system" : "https://tcu.edu.tw/tcuStdcode",
+      "value" : "101316007"
+    }],
+  "name": [
+  {
+  "use": "official",
+  "text": "林帶玉",
+  "family": "林",
+  "given": ["林帶玉"]
+  } ],
+  "gender": "female",
+  "birthDate": "1773-01-21",
+  "managingOrganization": {
+    "reference": "Organization/7070009"
+  }
+}
+
+,
+
+{ "resourceType": "Patient",
+  "id": "22",
+  "identifier": [ {
+    "use": "official",
+    "system": "http://www.moi.gov.tw/",
+    "value": "A123456789"  } ],
+  "name": [ {
+    "use": "official",
+    "text": "林帶玉"  } ],
+  "gender": "female",
+  "birthDate": "1773-01-21",
+  "managingOrganization": {
+    "reference": "Organization/1"  }}
+,
+
+{ "resourceType": "Patient",
+  "id": "23",
+  "name": [ {
+    "use": "nickname",
+    "text": "愛哭鬼"  } ],
+  "managingOrganization": {
+    "reference": "Organization/1"  }}
+
+
+
+
+]
+
+
+

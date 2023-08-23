@@ -1,0 +1,21 @@
+{
+    "resourceType": "DocumentReference",
+    "status": "current",
+    "docStatus": "final",
+    "type": {
+        "coding": [ { "code": "video"   } ]
+    },
+    "category": [ {
+      "coding": [
+        {"code": "image" } 
+       ] } ],
+   "author": [ {
+      "reference": "Practitioner/88df8172-9f58-4a0f-bcca-bcdcd5ea6485"
+    } ],
+   "content": [ {
+      "attachment": {
+        "url": "https://tzfhir.ml:53443/SkinlesionManagement/Image/386/ed952e80-e776-4f85-93d1-270c6bf769ea.JPG"
+          }
+    } ]
+  }
+ 

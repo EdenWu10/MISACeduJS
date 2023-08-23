@@ -1,0 +1,71 @@
+[
+
+  { "resourceType": "Practitioner",
+    "id": "9",
+    "name": [ {
+      "use": "official",
+      "text": "林志靈"    } ],
+    "qualification": [ {
+      "code": {
+        "coding": [ {
+          "code": "nurse",
+          "display": "護理師"    } ]
+      }  } ]
+  }
+
+,
+
+ {"resourceType": "Practitioner",
+  "id": "10",
+  "name": [ {
+    "use": "official",
+    "text": "蔡鷹穩"
+  } ],
+  "qualification": [ {
+    "code": {
+      "coding": [ {
+        "code": "Clinical laboratory technologist",
+        "display": "檢驗師"      } ]
+    } } ] }
+,
+
+{
+  "resourceType": "Practitioner",
+  "id": "24",
+  "name": [ {
+    "use": "official",
+    "text": "陳劍人"
+  } ],
+  "qualification": [ {
+    "code": {
+      "coding": [ {
+        "code": "Clinical laboratory technologist",
+        "display": "檢驗師"
+      } ]
+    }
+  } ]
+}
+
+,
+
+
+,
+
+  { "resourceType": "Practitioner",
+    "id": "25",
+    "name": [ {
+      "use": "official",
+      "text": "賴清得"
+    } ],
+    "qualification": [ {
+      "code": {
+        "coding": [ {
+          "code": "physician",
+          "display": "醫師"    } ]
+      } } ] }
+
+
+
+
+
+  ]

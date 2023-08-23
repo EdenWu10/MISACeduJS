@@ -1,0 +1,54 @@
+[
+
+  { "resourceType": "PractitionerRole",
+    "id": "30",
+    "active": true,
+    "practitioner": {
+      "reference": "Practitioner/9",
+      "display": "林志靈護理師"    },
+    "organization": {
+      "reference": "Organization/28",
+      "display": "台東福田醫院"    },
+    "code": [ {
+      "coding": [ {
+        "code": "contact person",
+        "display": "聯繫窗口"
+      } ]   } ]
+  }
+
+  ,
+
+
+  { "resourceType": "PractitionerRole",
+    "id": "20",
+    "active": true,
+    "practitioner": {
+      "reference": "Practitioner/10",
+      "display": "蔡鷹穩檢驗師"    },
+    "organization": {
+      "reference": "Organization/19"    },
+    "code": [ {
+      "coding": [ {
+        "code": "contact person",
+        "display": "聯繫窗口"   } ]  } ]
+  }
+
+  ,
+
+  {"resourceType": "PractitionerRole",
+    "id": "34",
+    "active": true,
+    "practitioner": {
+      "reference": "Practitioner/24",
+      "display": "陳劍人檢驗師"    },
+    "organization": {
+      "reference": "Organization/19"    },
+    "code": [ {
+      "coding": [ {
+        "code": "contact person",
+        "display": "聯繫窗口"
+      } ]    } ]
+  }
+
+]
+  

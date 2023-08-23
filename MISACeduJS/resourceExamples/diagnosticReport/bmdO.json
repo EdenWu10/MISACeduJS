@@ -1,0 +1,33 @@
+{   "resourceType": "Observation",
+    "id": "obs123",
+    "status": "final",
+    "category": [ {
+      "coding": [ {
+        "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+        "code": "image",
+        "display": "Image"
+      } ]
+    } ],
+    "code": {
+      "coding": [ {
+        "system": "http://loinc.org",
+        "code": "80948-3",
+        "display": "DXA Femur - left [T-score] Bonedensity"
+      } ]
+    },
+    "effectiveDateTime": "2022-10-04T15:37:07+08:00",
+    "valueQuantity": {
+      "value": -0.11,
+      "unit": "{T-score}",
+      "system": "http://unitsofmeasure.org",
+      "code": "{T-score}"
+    },
+    "bodySite": {
+      "coding": [ {
+        "system": "https://mitw.dicom.org.tw/MITW%20WG2%20Vital%20Sign%20Code%20System.xlsx",
+        "code": "Lumbar spine L3~L4",
+        "display": "Lumbar spine L3~L4"
+      } ],
+      "text": "腰椎第三~四節"
+    }
+  }

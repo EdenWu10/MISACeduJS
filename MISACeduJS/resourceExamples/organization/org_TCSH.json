@@ -1,0 +1,24 @@
+
+{
+        "resourceType": "Organization",
+        "name": "TCSH 魔電監獄島附設醫院",
+        "telecom": [
+         {
+            "system": "email",
+            "value": "Rad1@gms.tcu.edu.tw",
+            "use": "work"
+          }
+        ],
+        "partOf": {
+          "reference": "Organization/1921070"
+        }
+}
+
+
+{
+  "resourceType": "Organization",
+  "name": "檢驗科",
+  "partOf": {
+    "reference": "Organization/1"
+  }
+}

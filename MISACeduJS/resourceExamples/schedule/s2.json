@@ -1,0 +1,13 @@
+{
+    "resourceType" : "Schedule",
+    "active" : true,
+    "name" : "2023/3 TCU MI activities",
+    "actor" : [{
+      "reference" : "Practitioner/8362464",
+      "display" : "PM for TCU MI activities"
+    }]
+  }
+
+
+  "resourceType": "Schedule",
+  "id": "8362466",
